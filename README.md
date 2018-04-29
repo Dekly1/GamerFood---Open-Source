@@ -1,6 +1,6 @@
 # GamerFood---Open-Source
 
-This is a leaked source also a shitty source.
+This is a leaked source with shitty menu / features.
 Good if you are a beginner and want free sources.
 
 ## Screenshot
